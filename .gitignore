@@ -1,0 +1,14 @@
+# Generated data — reproducible by running the notebooks
+data/interim/
+data/processed/
+
+# Trained models — reproducible by running notebook 03
+models/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.env
